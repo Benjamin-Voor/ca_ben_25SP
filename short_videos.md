@@ -5,4 +5,4 @@ This file holds links to YouTube videos or news articles that are - in my opinio
 Nothing here is longer than 10 minutes.
 ### Module 2
 * ["1976 Cray 1A final"](https://youtu.be/-QXjmwQITik?si=nbE4f-CdJaEm3j49)
-["Mythbusters Demo GPU versus CPU"](https://youtu.be/-P28LKWTzrI?si=Af5yl-RFDmR2mLkm)
+* ["Mythbusters Demo GPU versus CPU"](https://youtu.be/-P28LKWTzrI?si=Af5yl-RFDmR2mLkm)
